@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BeautyGab</string>
+    <string name="welcome_text">Hello I\'m a droid</string>
+    <string name="next_text">I\'m second text</string>
+    <string name="third_text">I\'m third text</string>
+    <string name="button">Cliquer ici pour entrer</string>
+    <string name="Title">BeautyGab</string>
+    <string name="Bienvenue">Bienvenue</string>
+    <string name="page_second">Seconde page</string>
+    <string name="cliente_text">Cliente</string>
+    <string name="title_main_professional">Bienvenue Professionnelle</string>
+    <string name="title_main_cliente">Bienvenue Cliente</string>
+    <string name="title_main_cliente_connexion">Bienvenue</string>
+    <string name="second_activity_text">second_activity</string>
+    <string name="firstname_cliente">Prenom</string>
+    <string name="name_cliente">Nom</string>
+    <string name="send_cliente_information">Envoyer Coordonnées</string>
+    <string name="pass_cliente">Mot de passe</string>
+    <string name="firstname_professionnelle">Nom</string>
+    <string name="name_professionnelle">Prenom</string>
+    <string name="send_professionnelle_information">Envoyer Coordonnées</string>
+    <string name="pass_professionnelle">Mot de passe</string>
+    <string name="textview">TextView</string>
+    <string name="professionnal_text">Professionnell</string>
+    <string name="profession">Profession</string>
+    <string name="send_professionnelle_identity">"Identifiez vous "</string>
+    <string name="send_cliente_identity">"Identifiez vous "</string>
+    <string-array name="planets_array">
+        <item>Profession</item>
+        <item>Coiffure</item>
+        <item>Corps</item>
+        <item>Visage</item>
+        <item>Mains</item>
+    </string-array>
+</resources>
